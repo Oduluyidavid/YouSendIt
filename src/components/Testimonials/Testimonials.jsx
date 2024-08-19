@@ -5,25 +5,25 @@ const TestimonialData = [
   {
     id: 1,
     name: "Victor",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    text: "Emphasizes how those offerings have improved a situation or resolved an issue",
     img: "https://picsum.photos/101/101",
   },
   {
     id: 2,
     name: "Satya Nadella",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    text: "I'm glad I decided to work with you.",
     img: "https://picsum.photos/102/102",
   },
   {
     id: 3,
     name: "Virat Kohli",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    text: "I am audibly saying your products are top notch",
     img: "https://picsum.photos/104/104",
   },
   {
     id: 5,
     name: "Sachin Tendulkar",
-    text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+    text: "Good products and order of goods are best selling from your websites",
     img: "https://picsum.photos/103/103",
   },
 ];
@@ -79,8 +79,7 @@ const Testimonials = () => {
             Testimonials
           </h1>
           <p data-aos="fade-up" className="text-xs text-gray-400">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit
-            asperiores modi Sit asperiores modi
+            I'm glad I decided to work with you. It's really great how easy your websites are to update and manage.
           </p>
         </div>
 
